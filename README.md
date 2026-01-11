@@ -1,4 +1,5 @@
-## Hi there 👋
+## Simple-SOHO-Network-Simulation-On-CISCO-Packet-Tracer
+This is a network security project where Cisco packet tracer was used to simulate a small network environment and how to protect it..
 
 <!--
 **StephenAnkomah/stephenAnkomah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
