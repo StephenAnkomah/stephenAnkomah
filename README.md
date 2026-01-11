@@ -1,6 +1,10 @@
 ## Simple-SOHO-Network-Simulation-On-CISCO-Packet-Tracer
 This is a network security project where Cisco packet tracer was used to simulate a small network environment and how to protect it..
 
+This project demonstrates the design and simulation of a Small Office/Home Office (SOHO) network using Cisco Packet Tracer. It showcases a basic but functional network topology that supports wired and wireless connectivity, internet access, and fundamental security controls.
+
+The goal is to provide a hands-on learning environment for understanding how real-world small business networks are planned, configured, and secured.
+
 <!--
 **StephenAnkomah/stephenAnkomah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
